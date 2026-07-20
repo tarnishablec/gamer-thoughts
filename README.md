@@ -8,6 +8,7 @@
 
 - [核心体验](concepts/核心体验.md)
 - [中心思想](concepts/中心思想.md)
+- [结构性美学](concepts/结构性美学.md)
 - [通马桶](concepts/通马桶.md)
 
 ## 随想目录
@@ -16,6 +17,7 @@
 
 - [作品内核如何进入系统](design-thinking/作品内核如何进入系统.md)
 - [历史创作不必完全遵守真实](design-thinking/历史创作不必完全遵守真实.md)
+- [游戏中的结构性美学：玩家记住的是整段体验的旋律](design-thinking/游戏中的结构性美学.md)
 
 ### 设计观察
 
